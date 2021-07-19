@@ -1,0 +1,22 @@
+h1 {
+    margin-bottom: 30px;
+    color: red;
+    text-decoration: underline;
+}
+
+input {
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 200px;
+    background-color: bisque;
+    border: solid;
+    font-weight: bold;
+}
+
+hr {
+    margin-bottom: 10px;
+}
+
+body {
+    background-color: darkturquoise;
+}
